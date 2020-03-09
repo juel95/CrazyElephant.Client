@@ -9,6 +9,7 @@ using Microsoft.Practices.Prism.Commands;
 
 namespace CrazyElephant.Client.ViewModels
 {
+    //第二次注释
     class DishMenuItemViewModel:BindableBase
     {
         /// <summary>
