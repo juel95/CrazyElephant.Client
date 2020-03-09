@@ -10,6 +10,9 @@ using CrazyElephant.Client.Services;
 
 namespace CrazyElephant.Client.ViewModels
 {
+    /// <summary>
+    /// view model
+    /// </summary>
     class MainWindowViewModel:BindableBase
     {
         public DelegateCommand PlaceOrderCommand { get; set; }
