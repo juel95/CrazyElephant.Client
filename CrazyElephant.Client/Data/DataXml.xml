@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dishes>
+  <Dish>
+    <Name>水果披萨</Name>
+    <Category>披萨</Category>
+    <Comment>本地特色</Comment>
+    <Score>4.5</Score>
+  </Dish>
+  <Dish>
+    <Name>土豆泥披萨</Name>
+    <Category>披萨</Category>
+    <Comment>本地特色</Comment>
+    <Score>5.0</Score>
+  </Dish>
+  <Dish>
+    <Name>麻辣小龙虾</Name>
+    <Category>菜品</Category>
+    <Comment></Comment>
+    <Score>4.5</Score>
+  </Dish>
+  <Dish>
+    <Name>卤面</Name>
+    <Category>主食</Category>
+    <Comment></Comment>
+    <Score>5.0</Score>
+  </Dish>
+  <Dish>
+    <Name>米饭</Name>
+    <Category>主食</Category>
+    <Comment></Comment>
+    <Score>4</Score>
+  </Dish>
+  <Dish>
+    <Name>茶树菇老鸭汤</Name>
+    <Category>炖品</Category>
+    <Comment>本地特色</Comment>
+    <Score>4.5</Score>
+  </Dish>
+</Dishes>
